@@ -1,0 +1,6 @@
+#ifndef ELTSMSSDD_H_INCLUDED
+#define ELTSMSSDD_H_INCLUDED
+
+#include "ELTSMS.h"
+
+#endif // ELTSMSSDD_H_INCLUDED

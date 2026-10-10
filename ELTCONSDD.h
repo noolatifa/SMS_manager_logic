@@ -1,0 +1,6 @@
+#ifndef ELTCONSDD_H_INCLUDED
+#define ELTCONSDD_H_INCLUDED
+
+#include "ELTCON.h"
+
+#endif // ELTCONSDD_H_INCLUDED

@@ -1,0 +1,6 @@
+#ifndef LSTCONSDD_H_INCLUDED
+#define LSTCONSDD_H_INCLUDED
+
+#include "LSTCON.h"
+
+#endif // LSTCONSDD_H_INCLUDED
